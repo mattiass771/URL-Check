@@ -1,6 +1,7 @@
 {
 	"name": "shorturl",
-	"version": "0.0.3",
+  "author": "Matus Zilinsky",
+	"version": "0.1.0",
 	"description": "API project for freeCodeCamp",
 	"main": "server.js",
 	"scripts": {
